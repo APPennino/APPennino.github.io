@@ -13,10 +13,18 @@ APPennino è stato premiato da Cesvot (Centro Servizi Volontariato Toscana) nell
 in accordo con il Dipartimento della Gioventù e del Servizio Civile Nazionale.
 
 
-*Crediti del progetto* 
+<p><strong>Crediti del progetto </strong></p>
 
-Appennino è un progetto di Valle Lune associazione di volontariato, Gruppo Naturalistico Appennino Pistoiese, Associazione Museo della Gente dell’Appennino, realizzato con la collaborazione di 
+<p><strong>APPennino</strong> è un progetto di:</p>
 
-Cristina Taddei, archeologa, ricercatrice indipendente
-Simone Vergari, naturalista, Gruppo Naturalistico Appennino Pistoiese
-Alfonso Crisci, biometeorologo( IBIMET CNR Istituto di Biometeorologia di Firenze)
+<li><strong>Valle Lune associazione di volontariato</strong><br></li>
+<p><img src="images/logo_valleluna.jpeg"  alt="Valle Lune"></p>
+<li><strong>Gruppo Naturalistico Appennino Pistoiese</strong><br></li>	
+<li><strong>Associazione Museo della Gente dell’Appennino</strong><br></li>	
+
+<p>realizzato in collaborazione con:</p>
+
+<li><strong>Cristina Taddei</strong><br>Ricercatrice indipendente</li>	
+<li><strong>Simone Vergari</strong><br>Museo Naturalistico e Archeologico dell’Appennino Pistoiese</li>			
+<li><strong>Alfonso Crisci</strong><br>Istituto di Biometeorologia, CNR, Firenze</li>
+<li><strong>Daniele Vergari</strong><br>Consorzio di Bonifica 3 Medio Valdarno Associazione G. B. Landeschi, San Miniato, Pisa</li>
